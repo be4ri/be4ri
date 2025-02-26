@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b4ri
+- 👋 Hi, I’m @be4ri
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything fun
