@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @be4ri
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me bianca.ioana.bolca@gmail.com
+![image](https://github.com/user-attachments/assets/b68bee87-7add-44ff-8cdc-32c765f14c3c)
+
+
+Hi, I’m @be4ri 🌺  
+🌿🌿🌿🌿🌿🌿🌿  
+How to reach me: bianca.ioana.bolca@gmail.com 🌼  
+🌿🌿🌿🌿🌿🌿🌿
 
 <!---
 Bianca0104/Bianca0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
